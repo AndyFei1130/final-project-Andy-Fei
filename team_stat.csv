@@ -1,0 +1,39 @@
+league,season,team,game,venue,result,GF,GA,opponent,xG,xGA,Poss,match_report
+ENG-Premier League,2223,Arsenal,2022-08-05 Crystal Palace-Arsenal,0,3,2,0,Crystal Palace,1.0,1.2,44,e62f6e78
+ENG-Premier League,2223,Arsenal,2022-08-13 Arsenal-Leicester City,1,3,4,2,Leicester City,2.7,0.5,50,7483b97f
+ENG-Premier League,2223,Arsenal,2022-08-20 Bournemouth-Arsenal,0,3,3,0,Bournemouth,1.3,0.3,57,7f11dd9e
+ENG-Premier League,2223,Arsenal,2022-08-27 Arsenal-Fulham,1,3,2,1,Fulham,2.6,0.8,71,8b69fd2d
+ENG-Premier League,2223,Arsenal,2022-08-31 Arsenal-Aston Villa,1,3,2,1,Aston Villa,2.4,0.4,59,cc235aad
+ENG-Premier League,2223,Arsenal,2022-09-04 Manchester Utd-Arsenal,0,0,1,3,Manchester Utd,1.3,1.5,60,61ddafa5
+ENG-Premier League,2223,Arsenal,2022-09-18 Brentford-Arsenal,0,3,3,0,Brentford,1.5,0.5,63,fd5626e6
+ENG-Premier League,2223,Arsenal,2022-10-01 Arsenal-Tottenham,1,3,3,1,Tottenham,2.4,1.6,64,aefe3b90
+ENG-Premier League,2223,Arsenal,2022-10-09 Arsenal-Liverpool,1,3,3,2,Liverpool,2.7,1.1,43,84a48413
+ENG-Premier League,2223,Arsenal,2022-10-16 Leeds United-Arsenal,0,3,1,0,Leeds United,0.5,1.8,53,92885cfc
+ENG-Premier League,2223,Arsenal,2022-10-23 Southampton-Arsenal,0,1,1,1,Southampton,1.0,0.7,59,d8138438
+ENG-Premier League,2223,Arsenal,2022-10-30 Arsenal-Nott'ham Forest,1,3,5,0,Nott'ham Forest,2.3,0.4,69,1b496cc1
+ENG-Premier League,2223,Arsenal,2022-11-06 Chelsea-Arsenal,0,3,1,0,Chelsea,2.1,0.3,55,af9dc838
+ENG-Premier League,2223,Arsenal,2022-11-12 Wolves-Arsenal,0,3,2,0,Wolves,2.1,0.7,62,863d7a8f
+ENG-Premier League,2223,Arsenal,2022-12-26 Arsenal-West Ham,1,3,3,1,West Ham,2.1,1.0,66,3be32b8b
+ENG-Premier League,2223,Arsenal,2022-12-31 Brighton-Arsenal,0,3,4,2,Brighton,2.9,1.2,32,dd50a429
+ENG-Premier League,2223,Arsenal,2023-01-03 Arsenal-Newcastle Utd,1,1,0,0,Newcastle Utd,1.1,1.0,66,ceebd643
+ENG-Premier League,2223,Arsenal,2023-01-15 Tottenham-Arsenal,0,3,2,0,Tottenham,1.8,1.6,49,4fc8b7b2
+ENG-Premier League,2223,Arsenal,2023-01-22 Arsenal-Manchester Utd,1,3,3,2,Manchester Utd,3.1,0.4,57,1b35bc71
+ENG-Premier League,2223,Arsenal,2023-02-04 Everton-Arsenal,0,0,0,1,Everton,0.9,1.7,70,07fc721a
+ENG-Premier League,2223,Arsenal,2023-02-11 Arsenal-Brentford,1,1,1,1,Brentford,1.6,2.0,69,7caa56bc
+ENG-Premier League,2223,Arsenal,2023-02-15 Arsenal-Manchester City,1,0,1,3,Manchester City,1.6,1.8,63,b9da01e6
+ENG-Premier League,2223,Arsenal,2023-02-18 Aston Villa-Arsenal,0,3,4,2,Aston Villa,3.2,0.5,67,e50bfcf8
+ENG-Premier League,2223,Arsenal,2023-02-25 Leicester City-Arsenal,0,3,1,0,Leicester City,0.7,0.0,65,145cc0a5
+ENG-Premier League,2223,Arsenal,2023-03-01 Arsenal-Everton,1,3,4,0,Everton,2.6,1.2,73,705a2f3c
+ENG-Premier League,2223,Arsenal,2023-03-04 Arsenal-Bournemouth,1,3,3,2,Bournemouth,2.1,1.3,79,3e9a33fc
+ENG-Premier League,2223,Arsenal,2023-03-12 Fulham-Arsenal,0,3,3,0,Fulham,2.3,0.8,55,d238973c
+ENG-Premier League,2223,Arsenal,2023-03-19 Arsenal-Crystal Palace,1,3,4,1,Crystal Palace,1.6,0.8,62,98e0de00
+ENG-Premier League,2223,Arsenal,2023-04-01 Arsenal-Leeds United,1,3,4,1,Leeds United,3.8,0.7,66,2e4383ca
+ENG-Premier League,2223,Arsenal,2023-04-09 Liverpool-Arsenal,0,1,2,2,Liverpool,1.4,3.9,41,f3774baa
+ENG-Premier League,2223,Arsenal,2023-04-16 West Ham-Arsenal,0,1,2,2,West Ham,2.7,1.8,70,3120ba0d
+ENG-Premier League,2223,Arsenal,2023-04-21 Arsenal-Southampton,1,1,3,3,Southampton,2.5,1.3,74,12efc7dd
+ENG-Premier League,2223,Arsenal,2023-04-26 Manchester City-Arsenal,0,0,1,4,Manchester City,0.5,2.5,48,00a73645
+ENG-Premier League,2223,Arsenal,2023-05-02 Arsenal-Chelsea,1,3,3,1,Chelsea,1.7,0.8,55,2d551ff5
+ENG-Premier League,2223,Arsenal,2023-05-07 Newcastle Utd-Arsenal,0,3,2,0,Newcastle Utd,1.3,1.3,45,9bb3a778
+ENG-Premier League,2223,Arsenal,2023-05-14 Arsenal-Brighton,1,0,0,3,Brighton,0.9,1.7,41,dc6fb985
+ENG-Premier League,2223,Arsenal,2023-05-20 Nott'ham Forest-Arsenal,0,0,0,1,Nott'ham Forest,0.6,0.6,81,9a2ea2b3
+ENG-Premier League,2223,Arsenal,2023-05-28 Arsenal-Wolves,1,3,5,0,Wolves,2.8,0.5,51,71d5bd41
